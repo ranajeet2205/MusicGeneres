@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_background">#f5d4d1d1</color>
+    <color name="pop_background">#019401</color>
+    <color name="rock_background">#04cfb1</color>
+    <color name="jazz_background">#d2c102</color>
+    <color name="rap_background">#bb03cf</color>
+</resources>

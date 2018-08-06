@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Generes</string>
+    <string name="pop">POP</string>
+    <string name="rock">ROCK</string>
+    <string name="jazz">JAZZ</string>
+    <string name="rap">RAP</string>
+</resources>
